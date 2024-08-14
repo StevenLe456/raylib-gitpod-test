@@ -1,0 +1,1 @@
+g++ -o game main.c -I include/ -L libs/ -lraylib
